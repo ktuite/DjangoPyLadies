@@ -7,3 +7,7 @@ DjangoPyLadies
 - deployed on heroku 
 	* made a procfile
 	* ran some magic django heroku commands / added lines of code (look through commits to see what happened)
+
+
+Look, it's running here!
+https://glacial-garden-27239.herokuapp.com/
